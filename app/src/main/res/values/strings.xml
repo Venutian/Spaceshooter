@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spaces War</string>
+    <string name="hello_class">Hello World!</string>
+    <string name="startButtonText">Start Game</string>
+</resources>
